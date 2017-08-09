@@ -1,7 +1,7 @@
 {
-  "name": "webpos-do",
+  "name": "react and express starter kit",
   "version": "1.0.0",
-  "description": "Webpos made by dofactory",
+  "description": "react and express starter kit",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf build public/bundle.js",
@@ -20,9 +20,9 @@
     "url": "git+https://github.com/eunki7/webpos-do.git"
   },
   "keywords": [
-    "webpos"
+    "react and express starter kit"
   ],
-  "author": "dofactory",
+  "author": "eunki7",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/eunki7/webpos-do/issues"
