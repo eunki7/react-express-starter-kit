@@ -42,6 +42,19 @@ npm run build
 npm run clean
 ```
 
+
+**When you use Windows**
+```
+Use package_windows.json Rename to package.json
+```
+
+
+**When you use osx**
+```
+Use package_mac.json Rename to package.json
+```
+
+
 This will generate a minimized bundle.js file on the `public` folder.
 
 
