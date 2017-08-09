@@ -5,7 +5,8 @@ React And Express App Boilerplate
 ### Usage
 **Clone this repository**
 ```
-git clone git@github.com:pro-react/react-app-boilerplate.git
+git clone https://github.com/eunki7/react-express-starter-kit.git
+
 ```
 
 **Install**
