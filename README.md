@@ -1,6 +1,5 @@
 # react-express-starter-kit
-(Node.js, Express, React.js, Babel, Webpack)
-=====================
+### (Node.js, Express, React.js, Babel, Webpack)
 
 ### Usage
 **Clone this repository**
