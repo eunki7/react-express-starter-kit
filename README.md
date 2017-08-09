@@ -20,12 +20,12 @@ npm run start
 
 Open http://localhost:3000 in your browser.
 
+
 **Start the application in development mode**
 ```
 npm run development
 ```
 
-Open http://localhost:3000 in your browser.
 Open http://localhost:3001 in your browser.(Debug Mode)
 
 
