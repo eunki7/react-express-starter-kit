@@ -7,6 +7,16 @@
 git clone https://github.com/eunki7/react-express-starter-kit.git
 ```
 
+**When you use Windows**
+```
+Use package_windows.json Rename to package.json
+```
+
+**When you use osx(default)**
+```
+Use package_mac.json Rename to package.json
+```
+
 **Install**
 ```
 npm install
@@ -39,18 +49,6 @@ npm run build
 **When ready, clean for production**
 ```
 npm run clean
-```
-
-
-**When you use Windows**
-```
-Use package_windows.json Rename to package.json
-```
-
-
-**When you use osx**
-```
-Use package_mac.json Rename to package.json
 ```
 
 
