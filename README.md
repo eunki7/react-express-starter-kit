@@ -1,12 +1,11 @@
 # react-express-starter-kit
-React And Express App Boilerplate
+#(Node.js, Express, React.js, Babel, Webpack)
 =====================
 
 ### Usage
 **Clone this repository**
 ```
 git clone https://github.com/eunki7/react-express-starter-kit.git
-
 ```
 
 **Install**
