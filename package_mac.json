@@ -1,0 +1,46 @@
+{
+  "name": "webpos-do",
+  "version": "1.0.0",
+  "description": "Webpos made by dofactory",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf build public/bundle.js",
+    "build": "babel server --out-dir build && ./node_modules/.bin/webpack",
+    "start": "NODE_ENV=production node ./build/main.js",
+    "development": "NODE_ENV=development node ./build/main.js"
+  },
+  "babel": {
+    "presets": [
+      "react",
+      "es2015"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eunki7/webpos-do.git"
+  },
+  "keywords": [
+    "webpos"
+  ],
+  "author": "dofactory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eunki7/webpos-do/issues"
+  },
+  "homepage": "https://github.com/eunki7/webpos-do#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react-hot-loader": "^1.3.1",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  }
+}
