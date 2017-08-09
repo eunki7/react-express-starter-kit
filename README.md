@@ -2,8 +2,6 @@
 React And Express App Boilerplate
 =====================
 
-Quickstart project template for React And Express 
-
 ### Usage
 **Clone this repository**
 ```
